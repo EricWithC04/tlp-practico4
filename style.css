@@ -45,6 +45,8 @@ section {
 
 /* Estilos del pie de página */
 footer {
+	display: flex;
+	justify-content: space-evenly;
 	background-color: #333;
 	color: #fff;
 	padding: 20px;
